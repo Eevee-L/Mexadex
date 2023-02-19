@@ -1,0 +1,3 @@
+# Mexadex
+
+Enciclopedia fakemon
